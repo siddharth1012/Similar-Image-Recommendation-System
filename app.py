@@ -11,6 +11,8 @@ from keras.applications.resnet import ResNet50,preprocess_input
 from sklearn.neighbors import NearestNeighbors
 from numpy.linalg import norm
 
+SKLEARN_ALLOW_DEPRECATED_SKLEARN_PACKAGE_INSTALL=True
+
 feature_list = np.array(pickle.load(open('embedded.pkl','rb')))
 filenames = pickle.load(open('filenames.pkl','rb'))
 
