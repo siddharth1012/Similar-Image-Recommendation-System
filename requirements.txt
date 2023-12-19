@@ -5,4 +5,4 @@ keras
 gunicorn
 scikit-learn
 Pillow
-tensorflow
+tensorflow-cpu
