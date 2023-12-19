@@ -5,3 +5,4 @@ keras
 gunicorn
 scikit-learn
 Pillow
+tensorflow
