@@ -20,4 +20,4 @@ instructions to use the webapp-
 
 Screenshot of webapp-
 
-<img width="949" alt="Screenshot 2022-09-30 145628" src="https://user-images.githubusercontent.com/73304623/193239573-04a7d21c-6325-4e0d-badb-6156e8a18775.png">
+![Screenshot 2023-12-19 130356](https://github.com/siddharth1012/Similar-Image-Recommendation-System/assets/73304623/a2f17340-23d2-4ab7-b9b4-93ca7f473afe)
