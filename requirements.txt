@@ -6,4 +6,4 @@ keras
 gunicorn
 scikit-learn
 Pillow
-tensorflow-cpu
+tensorflow-cpu 2.15.0.post1
